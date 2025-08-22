@@ -1,4 +1,6 @@
-Lista COMPLETA de Comandos Git Aprendidos:git init - Inicializa um repositório Gitgit clone -
+HEAD
+Lista BÁSICA de Comandos Git Aprendidos:git init - Inicializa um repositório Gitgit clone -
+nova-funcionalidade
 Clona um repositório remotogit add - Adiciona arquivos à área de staginggit commit -
 Confirma as alterações no repositório localgit status - Mostra o status dos arquivos
 Lista de Comandos Git Aprendidos:git init - Inicializa um repositório Gitgit clone -
